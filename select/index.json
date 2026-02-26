@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "仏だけ徒歩",
+  "base_artist": "東京事変",
+  "createdAt": "2026-02-26T08:14:32.118588Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "仏だけ徒歩",
+      "artist": "Tokyo Incidents",
+      "has_synced": true,
+      "path": "select/01_仏だけ徒歩_Tokyo_Incidents.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "仏だけ徒歩",
+      "artist": "Tokyo Incidents",
+      "has_synced": false,
+      "path": "select/02_仏だけ徒歩_Tokyo_Incidents.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "仏だけ徒歩",
+      "artist": "東京事変",
+      "has_synced": false,
+      "path": "select/pl_01_仏だけ徒歩_東京事変.txt"
+    }
+  ]
+}
